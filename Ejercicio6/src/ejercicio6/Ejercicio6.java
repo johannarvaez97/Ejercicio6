@@ -16,6 +16,7 @@ public class Ejercicio6 {
      */
     public static void main(String[] args) {
         System.out.println("linux version 1"); 
-        System.out.println("linux version 2");}
+        System.out.println("linux version 2");
+        System.out.println(" distribucion SUSE 2");}
     
 }
